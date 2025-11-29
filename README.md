@@ -15,7 +15,7 @@
 
 ## Quick Facts
 
-<div align="center">
+<div align="start">
 
 | Category | Details |
 |----------|---------|
@@ -30,7 +30,7 @@
 ## Technologies & Tools
 
 ### Frontend Development
-<div align="center">
+<div align="start">
   
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -43,14 +43,14 @@
 </div>
 
 ### Mobile Development
-<div align="center">
+<div align="start">
 
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
 
 ### Backend & Databases
-<div align="center">
+<div align="start">
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -61,7 +61,7 @@
 </div>
 
 ### Development Tools
-<div align="center">
+<div align="start">
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -89,7 +89,7 @@
 
 ## Project Showcase
 
-<div align="center">
+<div align="start">
 
 ### Bkxk Training Platform
 ![Project Screenshot](https://via.placeholder.com/800x400/374151/FFFFFF?text=Bkxk+Training+Platform)
@@ -109,7 +109,7 @@
 
 ## GitHub Analytics
 
-<div align="center">
+<div align="start">
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigogutierrezpacheco&show_icons=true&theme=radical&hide_border=true)
 
@@ -121,7 +121,7 @@
 
 ## Certifications & Learning
 
-<div align="center">
+<div align="start">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-Professional-61DAFB?style=flat-square&logo=react)
@@ -131,7 +131,7 @@
 
 ## Let's Connect
 
-<div align="center">
+<div align="start">
 
 ### I'm always open to discussing new opportunities and interesting projects
 
@@ -143,13 +143,14 @@
 
 ---
 
-<div align="center">
+<div align="start">
 
 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 ⭐️ From [rodrigogutierrezpacheco](https://github.com/rodrigogutierrezpacheco)
 
 </div>
+
 
 
 
