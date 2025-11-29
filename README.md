@@ -41,26 +41,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📈 Professional Experience
-
-### 🏢 Logic Lane (50 Doctors)
-**Frontend Developer** | *Jan 2024 - Present*
-- Developed specialized CRM for real estate sales management with 100+ active clients
-- Implemented reusable component system reducing development time by 30%
-- Integrated multiple REST APIs and optimized queries with React Query
-
-### 🏢 B Life
-**Frontend Developer** | *Jan 2023 - Present*
-- Developed B Life Mayoreo ecommerce platform with Next.js and Tailwind CSS
-- Created B Life MX with React.js, optimizing user experience and load times
-- Designed internal ERP system with React.js and TypeScript, improving operational efficiency by 40%
-- Developed mobile app with React Native for warehouse management, reducing processing times by 60%
-
-### 🏢 Marco Beteta ERP-APP
-**Full Stack Developer** | *Jan 2024 - Aug 2025*
-- Developed ERP web application with complete business management functionalities
-- Created React Native app for restaurant visualization by zones, user ratings, and recommendations
-
 ## 🛠️ Personal Projects
 
 ### 🏋️ Bkxk Training
@@ -70,20 +50,6 @@
 - PayPal payment gateway integration for subscriptions and one-time payments
 - Customizable training routines module with intuitive user interface
 - **Live Demo:** [bkcktraining.com.mx](https://www.bkcktraining.com.mx)
-
-## 📚 Education
-
-| Institution | Program | Year |
-|-------------|---------|------|
-| **Platzi** | React Native, Next.js 14, TypeScript, Full Stack Development | 2024 |
-| **Iron Hack** | Full Stack Web Development | 2023 |
-| **Coursera** | UX Design Basics | 2023 |
-| **IPN** | Mechanical Engineering | 2012 |
-
-## 🌐 Languages
-
-- **Spanish**: Native 🇲🇽
-- **English**: Intermediate 🇺🇸
 
 ---
 
@@ -108,3 +74,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigogutierrezpacheco/)
 
 </div>
+
