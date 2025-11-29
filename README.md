@@ -1,12 +1,10 @@
 # Hi there, I'm Rodrigo Gutiérrez Pacheco 👋
 
-<div align="start" flex="column">
-
-[![Email](https://img.shields.io/badge/Email-rodrigogutierrezpacheco%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:rodrigogutierrezpacheco@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rodrigopacheco--dev.vercel.app-green?style=flat-square)](https://rodrigopacheco-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigogutierrezpacheco-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rodrigogutierrezpacheco/)
-[![Location](https://img.shields.io/badge/Location-Cuernavaca,%20Morelos,%20Mexico-red?style=flat-square)]()
-
+<div align="start" style="display: flex; flex-direction: column; gap: 8px;">
+  [![Email](https://img.shields.io/badge/Email-rodrigogutierrezpacheco%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:rodrigogutierrezpacheco@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-rodrigopacheco--dev.vercel.app-green?style=flat-square)](https://rodrigopacheco-dev.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigogutierrezpacheco-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rodrigogutierrezpacheco/)
+  [![Location](https://img.shields.io/badge/Location-Cuernavaca,%20Morelos,%20Mexico-red?style=flat-square)]()
 </div>
 
 ## Professional Summary
@@ -150,5 +148,6 @@
 ⭐️ From [rodrigogutierrezpacheco](https://github.com/rodrigogutierrezpacheco)
 
 </div>
+
 
 
