@@ -72,21 +72,6 @@
 
 </div>
 
-## Professional Experience
-
-### Frontend Developer at Logic Lane (50 Doctors)
-- Developing and maintaining healthcare applications using React.js and Next.js
-- Implementing responsive and accessible user interfaces
-- Collaborating with backend developers and designers
-- Optimizing application performance and user experience
-
-### Full Stack Developer - Bkxk Training (Personal Project)
-- Complete training management platform development from design to implementation
-- Custom JWT authentication system with secure password recovery
-- PayPal payment gateway integration for subscriptions and one-time payments
-- Customizable training routines module with intuitive user interface
-- **Live Demo:** [bkcktraining.com.mx](https://www.bkcktraining.com.mx)
-
 ## Project Showcase
 
 <div align="start">
@@ -150,6 +135,7 @@
 ⭐️ From [rodrigogutierrezpacheco](https://github.com/rodrigogutierrezpacheco)
 
 </div>
+
 
 
 
