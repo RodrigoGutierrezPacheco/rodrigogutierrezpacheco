@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo Gutiérrez Pacheco 👋
 
-<div align="center">
+<div align="start">
 
 [![Email](https://img.shields.io/badge/Email-rodrigogutierrezpacheco%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:rodrigogutierrezpacheco@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rodrigopacheco--dev.vercel.app-green?style=flat-square)](https://rodrigopacheco-dev.vercel.app/)
@@ -150,3 +150,4 @@
 ⭐️ From [rodrigogutierrezpacheco](https://github.com/rodrigogutierrezpacheco)
 
 </div>
+
