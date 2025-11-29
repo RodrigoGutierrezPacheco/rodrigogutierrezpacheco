@@ -19,11 +19,11 @@
 
 | Category | Details |
 |----------|---------|
-| **Currently Working On** | Logic Lane (50 Doctors) as a Frontend Developer |
-| **Currently Learning** | React Native, Next.js 14, TypeScript |
-| **Professional Interests** | Frontend Architecture, UX Design, Performance Optimization |
-| **Hobbies** | Basketball, Video Games, UX Design |
-| **Contact** | rodrigogutierrezpacheco@gmail.com |
+| **🔧 Currently Working On** | B Life as a Frontend Developer |
+| **📚 Currently Learning** | React Native, Mobile Development |
+| **💼 Professional Interests** | Frontend Architecture, UX Design, Performance Optimization |
+| **🎯 Hobbies** | Gym, Video Games, UX Design |
+| **📫 Contact** | rodrigogutierrezpacheco@gmail.com |
 
 </div>
 
@@ -135,6 +135,7 @@
 ⭐️ From [rodrigogutierrezpacheco](https://github.com/rodrigogutierrezpacheco)
 
 </div>
+
 
 
 
